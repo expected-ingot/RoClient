@@ -1,2 +1,2 @@
 # RoClient
-Custom ROBLOX client
+RoClient is a custom client for Roblox.
